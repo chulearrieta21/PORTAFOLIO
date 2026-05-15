@@ -67,6 +67,7 @@ const stack = [
   ['10', 'JavaScript', 'Interactividad, lógica frontend/backend y desarrollo de aplicaciones web modernas.'],
   ['11', 'Android Studio', 'Diseño y construcción de aplicaciones móviles nativas para Android.'],
   ['12', 'Inteligencia Artificial', 'Integración de IA en productos digitales para análisis, automatización y asistencia inteligente.'],
+  ['13', 'Blender', 'Modelado de objetos 3D, creación de piezas digitales, composición visual y renders para proyectos interactivos.'],
 ];
 
 const projects: Project[] = [
@@ -128,6 +129,18 @@ const projects: Project[] = [
       '/projects/project-5/comunicacion-social-1.png',
       '/projects/project-5/comunicacion-social-2.png',
       '/projects/project-5/comunicacion-social-1.png',
+    ],
+  },
+  {
+    number: '06',
+    name: 'Modelado de Objetos 3D',
+    category: 'Blender 3D',
+    description: 'Proyecto enfocado en el modelado de objetos 3D en Blender, desde la construcción de formas y materiales hasta la composición visual de renders para experiencias digitales profesionales.',
+    layout: 'desktop',
+    images: [
+      '/projects/project-6/blender-modelado-1.svg',
+      '/projects/project-6/blender-modelado-2.svg',
+      '/projects/project-6/blender-modelado-3.svg',
     ],
   },
 ];

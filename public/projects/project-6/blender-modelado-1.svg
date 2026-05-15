@@ -1,0 +1,23 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="56" fill="#0C0C0C"/>
+  <rect x="1" y="1" width="1198" height="798" rx="55" stroke="#D7E2EA" stroke-opacity="0.18" stroke-width="2"/>
+  <circle cx="760" cy="355" r="230" fill="url(#g1)" opacity="0.9"/>
+  <path d="M485 488L745 190L1010 488H485Z" fill="url(#g2)"/>
+  <path d="M560 505H1070" stroke="#D7E2EA" stroke-opacity="0.18" stroke-width="4"/>
+  <text x="88" y="120" fill="#D7E2EA" font-family="Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="4">BLENDER 3D</text>
+  <text x="88" y="178" fill="#D7E2EA" fill-opacity="0.68" font-family="Arial, sans-serif" font-size="24">Modelado de objetos hard-surface</text>
+  <text x="88" y="678" fill="#D7E2EA" fill-opacity="0.82" font-family="Arial, sans-serif" font-size="72" font-weight="900">OBJETO 01</text>
+  <defs>
+    <radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(680 260) rotate(56) scale(430)">
+      <stop stop-color="#D7E2EA"/>
+      <stop offset="0.38" stop-color="#597EFF"/>
+      <stop offset="0.72" stop-color="#8E24AA" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#0C0C0C" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="g2" x1="574" y1="204" x2="900" y2="558" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EAF3F8"/>
+      <stop offset="0.48" stop-color="#6B7CFF"/>
+      <stop offset="1" stop-color="#161616"/>
+    </linearGradient>
+  </defs>
+</svg>
