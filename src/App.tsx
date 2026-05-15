@@ -138,9 +138,9 @@ const projects: Project[] = [
     description: 'Proyecto enfocado en el modelado de objetos 3D en Blender, desde la construcción de formas y materiales hasta la composición visual de renders para experiencias digitales profesionales.',
     layout: 'desktop',
     images: [
-      '/projects/project-6/blender-modelado-1.svg',
-      '/projects/project-6/blender-modelado-2.svg',
-      '/projects/project-6/blender-modelado-3.svg',
+      '/projects/project-6/blender-modelado-1.png',
+      '/projects/project-6/blender-modelado-2.png',
+      '/projects/project-6/blender-modelado-3.png',
     ],
   },
 ];
