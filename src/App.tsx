@@ -143,6 +143,18 @@ const projects: Project[] = [
       '/projects/project-6/blender-modelado-3.png',
     ],
   },
+  {
+    number: '07',
+    name: 'Torneo KODO-TAKAI',
+    category: 'Competición Internacional',
+    description: 'Participación en el torneo internacional de tecnología KODO-TAKAI, donde mi equipo obtuvo el segundo lugar, desarrollando soluciones innovadoras y demostrando alto nivel competitivo.',
+    layout: 'desktop',
+    images: [
+      '/projects/project-7/kodo-1.png',
+      '/projects/project-7/kodo-2.png',
+      '/projects/project-7/kodo-3.png',
+    ],
+  },
 ];
 
 function FadeIn({ children, as = 'div', delay = 0, duration = 0.7, x = 0, y = 30, className }: FadeInProps) {
@@ -342,7 +354,7 @@ function AboutSection() {
           About me
         </FadeIn>
         <div className="flex flex-col items-center gap-16 sm:gap-20 md:gap-24">
-          <AnimatedText text="Soy Daniel Arrieta, desarrollador Full Stack con fuerte enfoque en Backend. Construyo plataformas web, aplicaciones móviles, APIs, soluciones con bases de datos e integraciones con Inteligencia Artificial para convertir ideas en productos digitales robustos, escalables y bien diseñados." />
+          <AnimatedText text="Soy Daniel Arrieta, desarrollador Full Stack con fuerte enfoque en Backend. Construyo plataformas web, aplicaciones móviles, APIs, soluciones con bases de datos e integraciones con Inteligencia Artificial para convertir ideas en productos digitales robustos, escalables y bien diseñados. Además, realizo mantenimiento a impresoras 3D y participé en un torneo internacional donde mi grupo obtuvo el segundo lugar." />
           <ContactButton />
         </div>
       </div>
